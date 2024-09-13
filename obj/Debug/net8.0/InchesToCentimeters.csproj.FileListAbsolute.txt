@@ -1,0 +1,14 @@
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimeters/bin/Debug/net8.0/InchesToCentimeters
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimeters/bin/Debug/net8.0/InchesToCentimeters.deps.json
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimeters/bin/Debug/net8.0/InchesToCentimeters.runtimeconfig.json
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimeters/bin/Debug/net8.0/InchesToCentimeters.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimeters/bin/Debug/net8.0/InchesToCentimeters.pdb
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimeters/obj/Debug/net8.0/InchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimeters/obj/Debug/net8.0/InchesToCentimeters.AssemblyInfoInputs.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimeters/obj/Debug/net8.0/InchesToCentimeters.AssemblyInfo.cs
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimeters/obj/Debug/net8.0/InchesToCentimeters.csproj.CoreCompileInputs.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimeters/obj/Debug/net8.0/InchesToCentimeters.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimeters/obj/Debug/net8.0/refint/InchesToCentimeters.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimeters/obj/Debug/net8.0/InchesToCentimeters.pdb
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimeters/obj/Debug/net8.0/InchesToCentimeters.genruntimeconfig.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimeters/obj/Debug/net8.0/ref/InchesToCentimeters.dll
